@@ -1,0 +1,33 @@
+# Arquivos gerados pelo LaTeX
+*.aux
+*.log
+*.out
+*.pdf
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+
+# Arquivos compilados C, C++, C#
+*.o
+*.exe
+*.dll
+*.so
+*.a
+
+# Arquivos compilados Java
+*.class
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Outros arquivos de backup ou temporários
+*.bak
+*.tmp
+*.swp
